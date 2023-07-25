@@ -105,7 +105,7 @@ curl_close($ch);
                 <th>nilai_1</th>
                 <th>nilai_2</th>
                 <th>nilai_3</th>
-                <th>nilai_4</th>
+                <th>dokumen</th>
             </tr>
         </thead>
 		
